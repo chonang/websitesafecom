@@ -1,4 +1,5 @@
 saya ingin konsisten membuat website 
 saya ingin mengelola beberapa seo 
 saya ingin membuat website biro jodoh
-membuat vloga
+membuat vlog
+menambah konten css dan js
